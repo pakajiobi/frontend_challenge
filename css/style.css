@@ -1,0 +1,146 @@
+
+
+body {
+  margin:auto;
+  background-color: #f8f8f8;
+  width:375px;
+  font-size: 16px;
+  font-family: sans-serif;
+
+}
+
+h1{
+  padding: 5px 0px 5px 0px;
+  font-size: 24px;
+  font-weight:600;
+  color:black;
+}
+
+
+h2 {
+  letter-spacing: 0.75px;
+  padding-top: 10px;
+  font-weight: bold;
+  color:black;
+}
+
+h3{
+  font-size: 14px;
+  padding-bottom:10px;
+  letter-spacing: .25px;
+  font-weight: 50;
+  color:black;
+}
+
+h4{
+  text-align:center;
+  font-size: 18px;
+  color:#000000;
+}
+
+h5{
+  font-size: 26px;
+  line-height: 15px;
+  color:black;
+  text-align: right;
+  margin-right: 35px;
+  padding-top: 10px;
+}
+
+h6 {
+
+  padding-top:5px;
+  font-size: 14px;
+  line-height: 22px;
+  color:black;
+  margin-right: 5px;
+}
+
+.notavailable
+ {color: black;
+margin-top : 26px;
+font-size: 24px;
+margin-right: -10PX;
+}
+
+
+aside{
+  width: 120px;
+  height:60px;
+  padding: 25px 0px 0px 0px;
+  float: right;
+  position: relative;
+  background-color: #C3ECF9;
+
+  color:white;
+  text-align:center;
+}
+
+.map {
+  height: auto;
+  width:375px;
+  margin:0px;
+}
+
+.arrow {
+  height: 25px;
+  float:left;
+  padding-left: 10px;
+  position:absolute;
+  margin-top: -5px;
+}
+
+
+.container {
+ width:375px;
+ background-color:  #ffffff;
+ padding: 15px 0px 15px 0px;
+}
+
+.content {
+
+  border-bottom: 1px solid #fff;
+  width: 355px;
+  background-color: #C3ECF9;
+  padding: 0px 0px 5px 20px;
+  color: black;
+}
+
+
+.list{
+  overflow-x: hidden;
+  width:375px;
+  height: 313.5px;
+}
+
+
+.outofservice {
+  background-color: #D3D3D3;
+}
+
+
+.reroute {
+  background-color: #ffffD5;
+
+}
+
+.outofservice h2 {
+  font-weight: 550;
+
+
+}
+
+.outofservice h5{
+  font-size: 20px;
+  color:black;
+  font-style: normal;
+}
+
+.outofservice h6{
+  color:black;
+}
+
+.status {
+  height:auto;
+  width:375px;
+}
